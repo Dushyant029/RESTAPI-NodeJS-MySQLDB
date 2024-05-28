@@ -19,9 +19,9 @@ To build a REST API using NodeJS to handle customer data and store it in an SQL 
 ## How we built it!?🧠
 I used Express.js in the frontend. And have used MySQL for database configuration and to hit the API used Postman platform.
 
-    * Establish a platform that encourages interaction among individuals with various hobbies.
-    * Enable users to join interest-based chat groups.
-    * Create a user-friendly and engaging environment for community building.
+    * POST API that allows customers to register their personal information.
+    * API will validate the input data and securely store the customer details in a SQL database.
+    * Created API Response Handling.
 
 ## Prerequisites 📑   
   
