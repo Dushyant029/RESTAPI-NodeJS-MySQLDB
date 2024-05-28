@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/Dushyant029/F13Hobby/assets/55031190/14f8574a-cbb6-435d-b492-f370a07c5e39" width="350" height="275">
 </p>
-<h1 align="center">REST API NodeJS MySQl DB </h1>
+<h1 align="center">REST API NodeJS MySQL DB </h1>
 <h3 align="center">⭐ Star me on GitHub — Your appreciation makes us grow and glow up! ⭐</h3>
 
 ## Overview ☮️
