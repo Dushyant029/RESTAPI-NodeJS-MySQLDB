@@ -62,13 +62,14 @@ The Application Runs on **localhost:3000**
     * MYSQL
 
 ## Screenshots 📸
-Page1
+Code
+![Code](https://github.com/Dushyant029/F13Hobby/assets/55031190/b667c424-d421-45df-9b2b-3a7ace8e1807)
 
-Page2
+Frontend
+![FND](https://github.com/Dushyant029/F13Hobby/assets/55031190/7030e95b-1e6c-4576-a1aa-e99348cbaf2c)
 
-Page3
+Postman
+![Fetch API](https://github.com/Dushyant029/F13Hobby/assets/55031190/ccfdb24e-86e9-4e32-9f45-a63537a53cbb)
 
-Page4
-
-
-    
+Database
+![DB](https://github.com/Dushyant029/F13Hobby/assets/55031190/bee9a1cd-ad30-4402-9f84-9599a3f2b568)
