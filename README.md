@@ -23,6 +23,10 @@ I used Express.js in the frontend. And have used MySQL for database configuratio
     * API will validate the input data and securely store the customer details in a SQL database.
     * Created API Response Handling.
 
+<p align="center">
+    <img src=""/>
+</p>
+
 ## Prerequisites 📑   
   
 ### Install Node JS
