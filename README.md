@@ -24,7 +24,7 @@ I used Express.js in the frontend. And have used MySQL for database configuratio
     * Created API Response Handling.
 
 <p align="center">
-    <img src=""/>
+    <img src="https://github.com/Dushyant029/RESTAPI-NodeJS-MySQLDB/assets/55031190/a10d476e-d987-4cc6-99d1-2b6b53ba7d41"/>
 </p>
 
 ## Prerequisites 📑   
